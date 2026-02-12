@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "初恋日記",
+  "base_artist": "香椎モイミ",
+  "createdAt": "2026-02-12T14:24:45.156243Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋日記 (feat. Otomachi Una)",
+      "artist": "Kashii Moimi",
+      "has_synced": true,
+      "path": "select/01_初恋日記_(feat._Otomachi_Una)_Kashii_Moimi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋日記 - Hatsukoi Nikki (feat. Otomachi Una)",
+      "artist": "Kashii Moimi",
+      "has_synced": true,
+      "path": "select/02_初恋日記_-_Hatsukoi_Nikki_(feat._Otomachi_Una)_Kashii_Moimi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋日記 feat.音街ウナ",
+      "artist": "香椎モイミ, 音街ウナ",
+      "has_synced": false,
+      "path": "select/pl_01_初恋日記_feat.音街ウナ_香椎モイミ,_音街ウナ.txt"
+    }
+  ]
+}
